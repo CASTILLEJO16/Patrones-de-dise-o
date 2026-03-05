@@ -22,4 +22,4 @@ namespace AbstractFactory
     {
         public abstract void Aplicar();
     }
-}
+    }
